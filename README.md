@@ -1,4 +1,9 @@
+
 # [Python] Titanic-Machine-Learning-from-Disaster
+
+<p align="center">
+  <img width="600" height="200" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/Titanic.png">
+</p>
 
 ## 1. Introduction
 
