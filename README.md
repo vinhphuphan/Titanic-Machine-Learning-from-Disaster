@@ -41,7 +41,8 @@ These are the steps that I followed in this project:
 #### Tuning The Hyper-parameter 
 
 ## 3. Conclusion
-1.  Answer the question  **What sort of people were likely to survive than others** are the passengers who have one of these features:
+1.  Answer the question **"What sort of people were likely to survive than others?"**
+They are the passengers who have one of these features:
     - Young ages - especially children
     - Is a Female
     - Hold the first-class ticket
