@@ -1,5 +1,5 @@
 
-# [Python] Titanic-Machine-Learning-from-Disaster
+# Titanic-Machine-Learning-from-Disaster Using Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40" style="max-width: 100%;">
 
 <p align="center">
   <img width="600" height="200" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/Titanic.png">
