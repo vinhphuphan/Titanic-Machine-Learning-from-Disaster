@@ -37,18 +37,29 @@ These are the steps that I followed in this project:
       </p>
     - Is a Female
       <p align="center">
-      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Sex.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Sex.jpg" alt="Titanic-Machine-Learning-from-Disaster using Python">
       </p>
-    - Hold the first-class ticket
+    - Hold the first-class ticket and the ticket's price is higher than `$32`
       <p align="center">
       <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Fare.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
       </p>
     - Have family members on the Titanic
+      <p align="center">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/isAlone.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      </p>
     - Embarked from Cherbourg Port
+       <p align="center">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Embarked.jpg" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      </p>
     - Have a 'Master' title
-    - The ticket's price is higher than `$32`
+      <p align="center">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/master.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      </p>
 2. **Model Performance**:
     - The results of 3 models are **Logistic Regression** = `83.33%`, **KNN (K = 10)** = `88.89%`, **tunned KNN (K = 33)** = `87.78%`. The model with best performance is **KNN model** with `88.89%` accuracy. This means the **KNN model** can predict the survival possibility of a passenger at 88.89% accuracy.
+      <p align="center">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Model_Compare.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      </p>
 3. **Possible extension can be done to improve the accuracy**:
     - Analyse ticket and cabin features
     - Come up with alternative features in feature engineering
