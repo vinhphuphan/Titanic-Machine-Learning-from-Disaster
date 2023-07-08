@@ -37,7 +37,7 @@ These are the steps that I followed in this project:
       </p>
     - Is a Female
       <p align="center">
-      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Sex.jpg" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      <img width="40%" height="40%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Sex.jpg" alt="Titanic-Machine-Learning-from-Disaster using Python">
       </p>
     - Hold the first-class ticket and the ticket's price is higher than `$32`
       <p align="center">
@@ -49,11 +49,11 @@ These are the steps that I followed in this project:
       </p>
     - Embarked from Cherbourg Port
        <p align="center">
-      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Embarked.jpg" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      <img width="40%" height="40%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Embarked.jpg" alt="Titanic-Machine-Learning-from-Disaster using Python">
       </p>
     - Have a 'Master' title
       <p align="center">
-      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/master.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      <img width="70%" height="70%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/master.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
       </p>
 2. **Model Performance**:
     - The results of 3 models are **Logistic Regression** = `83.33%`, **KNN (K = 10)** = `88.89%`, **tunned KNN (K = 33)** = `87.78%`. The model with best performance is **KNN model** with `88.89%` accuracy. This means the **KNN model** can predict the survival possibility of a passenger at 88.89% accuracy.
