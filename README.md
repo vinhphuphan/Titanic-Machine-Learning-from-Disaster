@@ -45,7 +45,7 @@ These are the steps that I followed in this project:
       </p>
     - Have family members on the Titanic
       <p align="center">
-      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/isAlone.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      <img width="80%" height="80%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/isAlone.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
       </p>
     - Embarked from Cherbourg Port
        <p align="center">
