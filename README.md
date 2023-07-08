@@ -1,49 +1,33 @@
-
-# Titanic-Machine-Learning-from-Disaster [Python] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40" style="max-width: 100%;">
+<h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"></a> Titanic-Machine-Learning-from-Disaster using Python <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 <p align="center">
   <img width="600" height="200" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/Titanic.png">
 </p>
 
-## 1. Introduction
+### 1. Introduction
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
-In this portfolio, my ultimate goal is to complete the analysis of what sorts of people were likely to survive. In particular, I will take the advantage of knowledge about data science and machine learning to apply the tools of machine learning to predict which passengers survived the tragedy.
+**In this project, my ultimate goal is to complete the analysis of what sorts of people were likely to survive. In particular, I will take the advantage of knowledge about data science and machine learning to apply the tools of machine learning to predict which passengers survived the tragedy.**
 
-#### Data Dictionary
-|Variable|Description|Key
-|:--|:----------------------------------------|:----------------------------------------|
-|Survival |Survival|0 = No, 1 = Yes|
-|pclass |  Ticket class |	1 = 1st, 2 = 2nd, 3 = 3rd |
-|sex | Sex |	 |
-|Age |Age in years |	 |
-|sibsp |# of siblings / spouses aboard the Titanic	 |	 |
-|parch |# of parents / children aboard the Titanic	 |	 |
-|ticket | Ticket number	 |	 |
-|fare	 | Passenger fare |	 |
-|cabin | Cabin number	 |	 |
-|embarked |Port of Embarkation		 |C = Cherbourg, Q = Queenstown, S = Southampton	 |
+### 2. Method
 
-## 2. Method
 These are the steps that I followed in this project:
-#### Data Overview & Feature analysis
-> - Showing descriptive statistics and feature distribution
-> - Exploring the correaltion between features
-> - Detecting the outliers
-#### Data Preprocessing
-> - Drop the unnecessary columns & the missing values
-> - Data Transformation
-> - Feature Engineering
-> - Feature Encoding
-#### Modelling
-> - Exploring data
-> - Building models : Logistic Regression and KNN model
-> - Making predictions
-> - Evaluating results. 
-#### Tuning The Hyper-parameter 
+- **Data Overview & Feature analysis** involves examining descriptive statistics, feature distributions, and correlations to gain insights into the data's characteristics and identify potential outliers.
+
+- **Data Preprocessing** focuses on preparing the data for modeling by removing unnecessary columns and missing values, performing transformations and engineering features, and encoding categorical variables.
+
+- **Modelling** encompasses exploring the data, building models such as Logistic Regression and KNN, making predictions using the trained models, and evaluating their performance to assess the effectiveness of the chosen approaches.
+
+#### Technologies used ⚙️
+* <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
+
+* <a href="https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+
+##### Python Libraries : 
+* <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> |  <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> |  <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> |  <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
 
 ## 3. Conclusion
 1.  Answer the question **"What sort of people were likely to survive than others?"**
