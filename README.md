@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"></a> Titanic-Machine-Learning-from-Disaster using Python <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/Titanic.png">
+  <img width="600" height="200" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Titanic.png">
 </p>
 
 ### 1. Introduction
@@ -31,10 +31,18 @@ These are the steps that I followed in this project:
 
 ## 3. Conclusion
 1.  **Answer the question "What sort of people were likely to survive than others?"**<br>
-They are the passengers who have one of these features:
-    - Young ages - especially children
+    - passengers who are young ages - especially children
+      <p align="center">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Age.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      </p>
     - Is a Female
+      <p align="center">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Sex.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      </p>
     - Hold the first-class ticket
+      <p align="center">
+      <img width="50%" height="50%" src="https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster/blob/main/images/Fare.png" alt="Titanic-Machine-Learning-from-Disaster using Python">
+      </p>
     - Have family members on the Titanic
     - Embarked from Cherbourg Port
     - Have a 'Master' title
