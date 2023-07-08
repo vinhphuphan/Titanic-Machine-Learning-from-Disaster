@@ -64,6 +64,11 @@ These are the steps that I followed in this project:
     - Analyse ticket and cabin features
     - Come up with alternative features in feature engineering
     - Remove less important features
+  
+### Related Projects:question: 👨‍💻 🛰️
+<code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
 
+<code>[Living Species Image Classification using Python](https://github.com/vinhphuphan/ImageClassification)</code> 📊
 
+<code>[Text Classification With Movie Reviews](https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews/)</code> 📊
 
